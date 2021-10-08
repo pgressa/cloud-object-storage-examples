@@ -1,3 +1,28 @@
+dist/
+.DS_Store
+target/
+.gradle/
+.idea/
+build/
+!buildSrc/src/main/groovy/io/micronaut/build/
+classes/
+out/
+*.db
+*.log
+*.iml
+.classpath
+.factorypath
+bin/
+.settings/
+.project
+*/test/
+*/META-INF/
+*.ipr
+*.iws
+.kotlintest
+*/.kotlintest/
+
+
 # Compiled class file
 *.class
 
